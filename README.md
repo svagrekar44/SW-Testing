@@ -1,6 +1,6 @@
 # Manual Testing – E-commerce Website
 
-This is a dummy manual testing project performed on [https://www.saucedemo.com](https://www.saucedemo.com).
+This is a dummy manual testing project performed on [https://www.saucedemo.com](https://www.saucedemo.com) for hands-on experience and practice.
 
 ## 🔍 Scope
 - Performed manual testing on modules like login, add to cart, and checkout.
